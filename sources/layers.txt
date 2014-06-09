@@ -1,4 +1,4 @@
 bitbake,git://git.openembedded.org/bitbake,1.22,HEAD
 meta-openembedded,git://git.openembedded.org/meta-openembedded,daisy,HEAD
-meta-cocon,git://github.com/dejiko/meta-cocon.git,master,HEAD
+meta-cocon,https://github.com/dejiko/meta-cocon.git,master,HEAD
 openembedded-core,git://git.openembedded.org/openembedded-core,daisy,HEAD
