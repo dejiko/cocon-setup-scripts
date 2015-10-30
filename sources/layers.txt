@@ -1,5 +1,5 @@
-bitbake,git://git.openembedded.org/bitbake,1.22,HEAD
-meta-openembedded,git://git.openembedded.org/meta-openembedded,daisy,HEAD
-meta-cocon,https://github.com/dejiko/meta-cocon.git,opencocon-v9,HEAD
-openembedded-core,git://git.openembedded.org/openembedded-core,daisy,HEAD
-meta-raspberrypi,http://git.yoctoproject.org/git/meta-raspberrypi,daisy,HEAD
+bitbake,git://git.openembedded.org/bitbake,1.26,HEAD
+meta-openembedded,git://git.openembedded.org/meta-openembedded,fido,HEAD
+meta-cocon,https://github.com/dejiko/meta-cocon.git,master,HEAD
+openembedded-core,git://git.openembedded.org/openembedded-core,fido,HEAD
+meta-raspberrypi,http://git.yoctoproject.org/git/meta-raspberrypi,fido,HEAD
