@@ -3,3 +3,5 @@ meta-openembedded,git://git.openembedded.org/meta-openembedded,jethro,HEAD
 meta-cocon,https://github.com/dejiko/meta-cocon.git,master,HEAD
 openembedded-core,git://git.openembedded.org/openembedded-core,jethro,HEAD
 meta-raspberrypi,http://git.yoctoproject.org/git/meta-raspberrypi,jethro,HEAD
+meta-musl,git://github.com/kraj/meta-musl.git,jethro,HEAD
+meta-webkit,https://github.com/Igalia/meta-webkit.git,jethro,HEAD
