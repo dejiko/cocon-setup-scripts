@@ -4,4 +4,7 @@ meta-cocon,https://github.com/dejiko/meta-cocon.git,master,HEAD
 openembedded-core,git://git.openembedded.org/openembedded-core,jethro,HEAD
 meta-raspberrypi,http://git.yoctoproject.org/git/meta-raspberrypi,jethro,HEAD
 meta-musl,git://github.com/kraj/meta-musl.git,jethro,HEAD
-meta-browser,https://github.com/OSSystems/meta-browser.git,master,HEAD
+meta-browser,https://github.com/OSSystems/meta-browser.git,master,5882f0efb19f7428df3e170ffb08d5d654277382
+meta-qt5,https://github.com/meta-qt5/meta-qt5.git,jethro,HEAD
+meta-qt5-extra,https://github.com/schnitzeltony/meta-qt5-extra.git,jethro,HEAD
+
