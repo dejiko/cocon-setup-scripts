@@ -1,9 +1,8 @@
-bitbake,git://git.openembedded.org/bitbake,1.28,HEAD
-meta-openembedded,git://git.openembedded.org/meta-openembedded,jethro,HEAD
+bitbake,git://git.openembedded.org/bitbake,1.32,HEAD
+meta-openembedded,git://git.openembedded.org/meta-openembedded,morty,HEAD
 meta-cocon,https://github.com/dejiko/meta-cocon.git,master,HEAD
-openembedded-core,git://git.openembedded.org/openembedded-core,jethro,HEAD
-meta-raspberrypi,http://git.yoctoproject.org/git/meta-raspberrypi,jethro,HEAD
-meta-musl,git://github.com/kraj/meta-musl.git,jethro,HEAD
-meta-browser,https://github.com/OSSystems/meta-browser.git,master,77736988073a5d90fcff9d0005c8477332ede387
-meta-qt5,https://github.com/meta-qt5/meta-qt5.git,jethro,HEAD
-meta-qt5-extra,https://github.com/schnitzeltony/meta-qt5-extra.git,jethro,HEAD
+openembedded-core,git://git.openembedded.org/openembedded-core,morty,HEAD
+meta-raspberrypi,http://git.yoctoproject.org/git/meta-raspberrypi,morty,HEAD
+meta-browser,https://github.com/OSSystems/meta-browser.git,morty,HEAD
+meta-qt5,https://github.com/meta-qt5/meta-qt5.git,morty,HEAD
+meta-qt5-extra,https://github.com/schnitzeltony/meta-qt5-extra.git,morty,HEAD
