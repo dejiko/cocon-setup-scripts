@@ -7,3 +7,4 @@ meta-sunxi,https://github.com/linux-sunxi/meta-sunxi.git,morty,HEAD
 meta-browser,https://github.com/OSSystems/meta-browser.git,morty,HEAD
 meta-qt5,https://github.com/meta-qt5/meta-qt5.git,morty,HEAD
 meta-qt5-extra,https://github.com/schnitzeltony/meta-qt5-extra.git,morty,HEAD
+coconport-experimental,https://github.com/dejiko/coconport-experimental,master,HEAD
