@@ -3,8 +3,8 @@ meta-openembedded,git://git.openembedded.org/meta-openembedded,pyro,HEAD
 meta-cocon,https://github.com/dejiko/meta-cocon.git,master,HEAD
 openembedded-core,git://git.openembedded.org/openembedded-core,pyro,HEAD
 meta-raspberrypi,http://git.yoctoproject.org/git/meta-raspberrypi,pyro,HEAD
-meta-sunxi,https://github.com/linux-sunxi/meta-sunxi.git,pyro,HEAD
-meta-browser,https://github.com/OSSystems/meta-browser.git,pyro,HEAD
-meta-qt5,https://github.com/meta-qt5/meta-qt5.git,pyro,HEAD
-meta-qt5-extra,https://github.com/schnitzeltony/meta-qt5-extra.git,pyro,HEAD
+meta-sunxi,https://github.com/linux-sunxi/meta-sunxi.git,master,HEAD
+meta-browser,https://github.com/OSSystems/meta-browser.git,master,HEAD
+meta-qt5,https://github.com/meta-qt5/meta-qt5.git,master,HEAD
+meta-qt5-extra,https://github.com/schnitzeltony/meta-qt5-extra.git,master,HEAD
 coconport-experimental,https://github.com/dejiko/coconport-experimental,master,HEAD
